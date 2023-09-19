@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Maur\u00edcio",
+        "age": 22,
+        "role": "Dev"
+    },
+    {
+        "id": 2,
+        "name": "Evelyn",
+        "age": 21,
+        "role": "UX"
+    },
+    {
+        "id": 3,
+        "name": "Pedro",
+        "age": 22,
+        "role": "Banc\u00e1rio"
+    },
+    {
+        "id": 4,
+        "name": "Rebecca",
+        "age": 23,
+        "role": "Dev"
+    },
+    {
+        "id": 5,
+        "name": "Rodrigo",
+        "age": 28,
+        "role": "Dev"
+    }
+]
